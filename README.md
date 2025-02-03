@@ -14,6 +14,6 @@ This is a Python program that can answer any “Yes” or “No” question with
 
 ## Demonstration
 
-<img src="Screenshot 2025-02-02 at 21.12.19">
+<img src="Screenshot 2025-02-02 at 21.13.06.png">
 
 
